@@ -1,0 +1,2 @@
+# 파이썬 표준 라이브러리(urllib, json, datetime)와 기본 라이브러리(streamlit, pandas)만 사용하므로
+# 추가로 설치할 외부 패키지가 없습니다.
